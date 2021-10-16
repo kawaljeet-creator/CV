@@ -1,0 +1,28 @@
+body{
+  background-image:url("bgcv.png");
+   background-repeat: no-repeat;
+   background-position:center;
+   background-size:cover;
+}
+hr{
+  border-style:none;/*this define none of border style */
+  border-top-style:dotted;/* this define only top border style i.e. dotted*/
+  border-color: lightgrey;
+  width:5%;/*this width is used for border top because there is no other side of border*/
+  border-width:3px;/* this define the width of border-top-style:dotted;*/
+}
+.red{
+  color:darkred;
+  
+}
+h1{
+  color:skyblue;
+
+}
+.green{
+  color:green;
+  text-decoration: none;
+}
+.italic{
+  text-decoration:none;
+}
